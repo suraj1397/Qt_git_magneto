@@ -1,0 +1,1 @@
+# Qt_git_magneto
